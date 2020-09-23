@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your test
+footer:  "revised: ADG"
 Use left arrow to go back!
